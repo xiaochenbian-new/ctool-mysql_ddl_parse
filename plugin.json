@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "inc.jpg",
+	"features": [
+		{
+		  "code": "ddl",
+		  "explain": "mysql 中的ddl语句解析成常用片段，以及和 mybatis 相关sql",
+			"cmds":["ddl", "mysql","mybatis","ibatis", "sql"]
+		}
+	]
+}
